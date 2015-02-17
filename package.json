@@ -1,0 +1,28 @@
+{
+  "name": "simple-request-caching",
+  "version": "0.0.1",
+  "description": "A very simple caching approach for requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobiaslabs/simple-request-caching.git"
+  },
+  "keywords": [
+    "cache",
+    "caching"
+  ],
+  "author": "saibotsivad",
+  "license": "VOL",
+  "bugs": {
+    "url": "https://github.com/tobiaslabs/simple-request-caching/issues"
+  },
+  "homepage": "https://github.com/tobiaslabs/simple-request-caching",
+  "devDependencies": {
+    "moment": "^2.9.0",
+    "promise": "^6.1.0",
+    "tape": "^3.5.0"
+  }
+}
