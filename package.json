@@ -1,6 +1,6 @@
 {
   "name": "simple-request-caching",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A very simple caching approach for requests.",
   "main": "index.js",
   "scripts": {
