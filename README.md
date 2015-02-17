@@ -7,7 +7,7 @@ A very simple caching approach for requests.
 ## install
 
 There are no external dependencies for the code, so feel free to copy+paste it into whatever framework
-you are using (e.g., [here's an Angular example](https://gist.github.com/saibotsivad/84d8faf3c8351c89ea3b).
+you are using (e.g., [here's an Angular example](https://gist.github.com/saibotsivad/84d8faf3c8351c89ea3b)).
 Otherwise, install using:
 
 	npm install simple-request-caching
