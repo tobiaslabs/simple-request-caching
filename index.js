@@ -14,6 +14,9 @@ function SimpleRequestCaching(options) {
 				requested: new Date(),
 				promise: options.request(request)
 			}
+			previousRequests[requestString].promise.then(function noop(){}, function errorHandler() {
+				delete previousRequests[requestString]
+			})
 			previousRequest = previousRequests[requestString]
 			if (options.cacheMillis >= 0) {
 				setTimeout(function destroyCachedRequest() {

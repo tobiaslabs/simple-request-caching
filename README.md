@@ -38,7 +38,7 @@ When you make a new `CachedRequest`, it has the following parameters:
 * `cacheMillis` (required): The number of milliseconds to cache the request
 	response. Use `-1` to cache things forever.
 * `request` (required): The function called when a request is not cached. Must
-	return a promise.
+	return a promise. Rejected promises are not cached.
 * `stringify` (optional): A function that is called to stringify the request
 	parameters. If unspecified, a default is used which will stringify flat
 	object correctly and efficiently. If you have deeper objects, you'll want
