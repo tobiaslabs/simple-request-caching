@@ -1,4 +1,4 @@
-# simple-request-caching [![Build Status](https://travis-ci.org/sdmp/simple-request-caching.svg?branch=master)](https://travis-ci.org/sdmp/simple-request-caching)
+# simple-request-caching [![Build Status](https://travis-ci.org/tobiaslabs/simple-request-caching.svg?branch=master)](https://travis-ci.org/tobiaslabs/simple-request-caching)
 
 [![NPM](https://nodei.co/npm/simple-request-caching.png)](https://nodei.co/npm/simple-request-caching/)
 
