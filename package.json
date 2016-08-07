@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tobiaslabs/simple-request-caching.git"
+    "url": "https://github.com/saibotsivad/simple-request-caching.git"
   },
   "keywords": [
     "cache",
@@ -17,9 +17,9 @@
   "author": "saibotsivad",
   "license": "VOL",
   "bugs": {
-    "url": "https://github.com/tobiaslabs/simple-request-caching/issues"
+    "url": "https://github.com/saibotsivad/simple-request-caching/issues"
   },
-  "homepage": "https://github.com/tobiaslabs/simple-request-caching",
+  "homepage": "https://github.com/saibotsivad/simple-request-caching",
   "devDependencies": {
     "moment": "^2.9.0",
     "promise": "^6.1.0",
