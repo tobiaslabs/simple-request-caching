@@ -1,5 +1,7 @@
 # simple-request-caching [![Build Status](https://travis-ci.org/tobiaslabs/simple-request-caching.svg?branch=master)](https://travis-ci.org/tobiaslabs/simple-request-caching)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/saibotsivad/simple-request-caching.svg)](https://greenkeeper.io/)
+
 A very simple caching approach for requests.
 
 ## install
